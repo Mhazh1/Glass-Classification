@@ -1,0 +1,11 @@
+Glass Dataset ML Report
+========================================
+
+Logistic Regression | Accuracy=0.6744 | F1=0.6547
+SVM | Accuracy=0.3488 | F1=0.1804
+Decision Tree | Accuracy=0.6977 | F1=0.6930
+Random Forest | Accuracy=0.8372 | F1=0.8355
+
+Best Model: Random Forest
+Best Accuracy: 0.8372
+CV Score (Random Forest): 0.7782
