@@ -12,6 +12,11 @@ This project compares multiple machine learning models on the Glass dataset.
 - Model training
 - Evaluation using Accuracy and F1-score
 
+- ## Dataset
+
+This project uses the Glass Classification dataset, available on Kaggle:
+https://www.kaggle.com/datasets/uciml/glass
+
 ## Models Used
 - Logistic Regression
 - SVM
